@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Harry Potter"
+        },
+        {
+            "id": 2,
+            "title": "3 mistakes of my life"
+        },
+        {
+            "id": "2c15352b-6746-43c8-bbe2-2d6c111bd441",
+            "title": "df"
+        },
+        {
+            "id": "2d013c85-7439-449b-ae52-8622bb799ba8",
+            "title": "Da Vinci Code"
+        },
+        {
+            "id": "808b3607-9a11-44fd-be80-5d3cf987306f",
+            "title": "One Arranged Murder"
+        },
+        {
+            "id": "61d3a51b-96ad-4b17-891c-027d5feefff1",
+            "title": "The Secret"
+        }
+    ]
+}
